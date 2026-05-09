@@ -24,8 +24,7 @@ This project has evolved into a state-of-the-art **Hybrid Ensemble** capable of 
 
 The system has been successfully integrated into a production-ready Identity Verification (KYC) workflow:
 - **Brain-Swap Integration**: Replaced the standard RGB backend with our **7-Channel Wavelet Engine** (`app_v2.py`).
-- **Adaptive Shielding**: The React frontend (`KYCForm.tsx`) now communicates the capture source to trigger context-aware weighting.
-- **Zero-Friction Demo**: Implemented a **Supabase Mocking Layer** to bypass logins and database dependencies for presentation speed.
+- **Adaptive Shielding**: The React frontend now communicates the capture source to trigger context-aware weighting.
 - **Biometric Firewall**: The system blocks fraudulent form submissions in real-time if a deepfake is detected.
 
 ## 🧠 Key Innovations
