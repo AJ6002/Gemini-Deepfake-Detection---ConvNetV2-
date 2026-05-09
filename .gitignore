@@ -1,0 +1,33 @@
+# --- Datasets ---
+data/
+mega_dataset/
+dataset/
+
+# --- Model Weights (Binary Files) ---
+models/
+*.keras
+*.h5
+*.weights
+*.pb
+
+# --- Python & Environments ---
+venv-pbl-wsl/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Project Specific Artifacts ---
+.agents/
+.gradio/
+training_log.txt
+blind_test_report.txt
+
+# --- Media & Large Docs ---
+*.mp4
+*.zip
+*.tar.gz
+*.docx
+
+# --- Logs ---
+*.log

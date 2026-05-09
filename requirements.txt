@@ -1,0 +1,13 @@
+opencv-python
+tensorflow
+torch
+numpy
+scikit-learn
+matplotlib
+pandas
+PyWavelets
+mediapipe
+gradio
+kagglehub
+Pillow
+keras-hub
